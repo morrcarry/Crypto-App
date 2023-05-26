@@ -22,7 +22,7 @@ Crypto-App is a web application for tracking cryptocurrency prices and trends. I
 
 ## Demo
 
-You can check out a live demo of the application at [Demo Link](https://vercel.com/morrcarry/crypto-app).
+You can check out a live demo of the application at [Demo Link](https://crypto-app-nine-orpin.vercel.app/).
 
 
 ## Technologies
